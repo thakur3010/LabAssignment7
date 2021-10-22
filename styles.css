@@ -1,0 +1,42 @@
+body {
+    background-color: #e8e8e8;
+    color: #000000;
+  }
+  header {
+    background-color: #e80c30;
+  }
+  h1 {
+    color: #ffffff;
+    font-family: Verdana;
+    font-size: 24px;
+    text-align: center;
+  }
+  h2 {
+    font-family: Arial;
+    font-size: 18px;
+    clear: both;
+  }
+  p {
+    font-family: Arial;
+    line-height: 200%;
+  }
+  img {
+    border: 2px solid;
+    margin: 10px;
+    padding: 4px;
+    max-width: 100%;
+  }
+  ul {
+    float: left;
+  }
+  footer {
+    background-color: #e80c30;
+    color: white;
+    clear: both;
+    text-align: center;
+  }
+  div {
+    background-color: #d4d6d9;
+    margin: 6px;
+    padding: 4px;
+  }
